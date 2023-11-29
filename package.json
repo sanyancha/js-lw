@@ -1,0 +1,19 @@
+{
+  "name": "ironalex-generate-random-number",
+  "version": "0.2.0",
+  "description": "generates a random number from 1 to 100",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "https://github.com/ironalex2102/js-lw",
+  "keywords": [
+    "javascript",
+    "node.js",
+    "npm",
+    "random",
+    "generate"
+  ],
+  "author": "Zhelezov A.P.",
+  "license": "ISC"
+}
